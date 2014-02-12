@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B968FD8-EFE2-44D3-BD69-4B99AF28AFF7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>First HW App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FE03605-6034-4D75-8D82-56DCB954BC48</key>
+		<string>ssh://github.com/guantonrivera/NSLogsandIBActions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>First HW App.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FE03605-6034-4D75-8D82-56DCB954BC48</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/guantonrivera/NSLogsandIBActions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FE03605-6034-4D75-8D82-56DCB954BC48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FE03605-6034-4D75-8D82-56DCB954BC48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSLogsandIBActions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
